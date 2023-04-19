@@ -1,3 +1,6 @@
+> This is an example repo of what results from running `statamic new statamic-peak-install studio1902/statamic-peak` and using all defaults when propted.
+
+
 # site.ext
 
 ## Installation instructions
